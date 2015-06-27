@@ -1,0 +1,13 @@
+{
+  "NAME": "Sids Parts",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 0,
+	"PATCH": 5
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 4
+  }
+}
